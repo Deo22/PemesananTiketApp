@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63048309273",
+    "firebase_url": "https://firstbelajarapp-b8eb5.firebaseio.com",
+    "project_id": "firstbelajarapp-b8eb5",
+    "storage_bucket": "firstbelajarapp-b8eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63048309273:android:ca2996cc635f1100a4a888",
+        "android_client_info": {
+          "package_name": "com.wahidev.baru.firstbelajarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63048309273-8q1lopporkr56hbh57abv55huqdmo1vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahidev.baru.firstbelajarapp",
+            "certificate_hash": "1d957d94144184931420ce9e79e7976027635487"
+          }
+        },
+        {
+          "client_id": "63048309273-0ecaob3igrdg4a3brn236oh9n39bfac8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIh1Gy1miGhfBNh66-WIJ-5p0AUSSDvR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63048309273-0ecaob3igrdg4a3brn236oh9n39bfac8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
